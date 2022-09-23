@@ -19,4 +19,4 @@ async def help(ctx):
     em.add_field(name = "Fun", value = "ping,8ball")
 
     await ctx.send(embed=em)
-client.run('MTAyMjc5MzEyNDgxMDA3MjE1NA.GkLMmY.ZbH-UtfDF3inbn2TudEe3434_NBLakNTwSJrIs')
+client.run('your token here')
