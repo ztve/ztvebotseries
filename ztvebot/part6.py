@@ -32,4 +32,4 @@ async def ban(ctx, member : discord.Member, *, reason="Not specified"):
         await ctx.send(embed=em)
         await ctx.guild.ban(discord.Object(id = member.id))
 
-client.run('MTAyMjc5MzEyNDgxMDA3MjE1NA.GMWDIk.F0TAtBFqwiKZbGuI0lMGe4-Z0qBJ5n_Dzo-R5Y')
+client.run('your token here')
